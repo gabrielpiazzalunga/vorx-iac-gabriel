@@ -16,7 +16,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "dev"
     Team = "SRE"
-    CC = "10423"
+    CC = "12345"
     BU = "Conta digital"
   }
 }
